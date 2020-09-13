@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/typescript-weather-app/static/css/main.97994220.chunk.css",
+    "main.js": "/typescript-weather-app/static/js/main.de8b1d9f.chunk.js",
+    "main.js.map": "/typescript-weather-app/static/js/main.de8b1d9f.chunk.js.map",
+    "runtime-main.js": "/typescript-weather-app/static/js/runtime-main.ecb2d9e4.js",
+    "runtime-main.js.map": "/typescript-weather-app/static/js/runtime-main.ecb2d9e4.js.map",
+    "static/css/2.ba242066.chunk.css": "/typescript-weather-app/static/css/2.ba242066.chunk.css",
+    "static/js/2.9d8720b9.chunk.js": "/typescript-weather-app/static/js/2.9d8720b9.chunk.js",
+    "static/js/2.9d8720b9.chunk.js.map": "/typescript-weather-app/static/js/2.9d8720b9.chunk.js.map",
+    "index.html": "/typescript-weather-app/index.html",
+    "precache-manifest.60dc960bbbd5d7ab75fcd3e3f7bb0c54.js": "/typescript-weather-app/precache-manifest.60dc960bbbd5d7ab75fcd3e3f7bb0c54.js",
+    "service-worker.js": "/typescript-weather-app/service-worker.js",
+    "static/css/2.ba242066.chunk.css.map": "/typescript-weather-app/static/css/2.ba242066.chunk.css.map",
+    "static/css/main.97994220.chunk.css.map": "/typescript-weather-app/static/css/main.97994220.chunk.css.map",
+    "static/js/2.9d8720b9.chunk.js.LICENSE.txt": "/typescript-weather-app/static/js/2.9d8720b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb2d9e4.js",
+    "static/css/2.ba242066.chunk.css",
+    "static/js/2.9d8720b9.chunk.js",
+    "static/css/main.97994220.chunk.css",
+    "static/js/main.de8b1d9f.chunk.js"
+  ]
+}
